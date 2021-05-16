@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771791401014",
+    "project_id": "gamedise-44251",
+    "storage_bucket": "gamedise-44251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771791401014:android:50e627549979b38001a897",
+        "android_client_info": {
+          "package_name": "com.example.gamedise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771791401014-d6pcueuiagogd6sgujggpj3fo6p794us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHtYqJ9juEV2sAy-uuTtqekOmIG0iOq3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771791401014-d6pcueuiagogd6sgujggpj3fo6p794us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
