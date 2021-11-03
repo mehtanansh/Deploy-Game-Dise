@@ -4,14 +4,14 @@ My Semester 6 Mini Project - A gaming application that helps users play Sudoku a
 # Features:
 
 * Tic Tac Toe
-* * vs AI --> Easy, Hard Levels available
-* * vs Player/Friend
-* * Hints given vsAI, additional hints available on watching ads (Google Ads not incorporated) 
+  * vs AI --> Easy, Hard Levels available
+  * vs Player/Friend
+  * Hints given vsAI, additional hints available on watching ads (Google Ads not incorporated) 
 
 * Sudoku
-* * Solve a Sudoku --> Begineer, Easy, Medium, Hard Levels available
-* * A Sudoku Solver, where User needs to input the whole question on an empty grid
-* * Hints and solutions provided to the user
+  * Solve a Sudoku --> Begineer, Easy, Medium, Hard Levels available
+  * A Sudoku Solver, where User needs to input the whole question on an empty grid
+  * Hints and solutions provided to the user
 
 * The Game also has a scoreboard which gives the player an overview of the games won, games lost, games resulting in a draw, win ratio & total sudokus completed.
 
